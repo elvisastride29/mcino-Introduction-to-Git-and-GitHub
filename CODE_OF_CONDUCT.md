@@ -123,6 +123,14 @@ enforcement ladder](https://github.com/mozilla/diversity).
 
 [homepage]: https://www.contributor-covenant.org
 
+### Notre Engagement
+### Nos Normes
+### Responsabilités d'Application 
+### Portée 
+### Application 
+### Directives d'Application 
+### Attribution
+
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
